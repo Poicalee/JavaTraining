@@ -1,1 +1,2 @@
-New Java
+Java exercises repository.
+Begginers task.
