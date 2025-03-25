@@ -21,7 +21,7 @@ public class Main {
         }else{
             System.out.println("Invalid email has to contain @");
         }
-        
+
         sc.close();
     }
 }
